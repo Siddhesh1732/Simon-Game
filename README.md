@@ -31,12 +31,12 @@ If you’d like to run this game locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-github-username/simon-game.git
+   git clone https://github.com/Siddhesh1732/Simon-Game.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd simon-game
+   cd Simon-Game
    ```
 
 3. Open `index.html` in your preferred browser.
