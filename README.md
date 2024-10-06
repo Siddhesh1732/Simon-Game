@@ -5,7 +5,7 @@ A classic memory-based game where players have to replicate a growing sequence o
 
 
 ## Demo
-You can play the game by visiting: [Simon Game - GitHub Pages](https://your-github-username.github.io/simon-game)
+You can play the game by visiting: [Simon Game - GitHub Pages](https://siddhesh1732.github.io/Simon-Game/)
 
 ## Features
 - Interactive and fun user interface.
